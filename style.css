@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+:root {
+  --main-wood: #DEB887;
+  --main-cornsi: #FFF8DC;
+}
+
+body {
+  background-color: var(--main-wood);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30vh;
+  font-family: "Caveat", monospace, Arial, sans-serif, Helvetica;
+  font-size: 30px;
+}
+
+.container-fluid {
+  background-color: var(--main-cornsi);
+}
+
+#author {
+  text-align: right;
+  font-size: 1.2em;
+}
+
+#new-quote {
+  font-size: 0.7em;
+}
+
+#facebook-quote > button, #tweet-quote button {
+  font-size: 0.7em;
+}
+
+#author-name > a {
+  color: black;
+}
+
+#author-name a:hover {
+  color: red;
+}
