@@ -6,8 +6,10 @@ This is a Random Quote Machine which generates new quote on the page when the bu
 
 This page owner information.
 
-SIN,Chun Hung SIMON.
+SIN,Chun Hung SIMON. 
 
-HKUST graduate.
+HKUST Graduate. 
 
-Mathematician. Developer.
+Major in Mathematics.
+
+A Lifelong Learner.
